@@ -18,7 +18,7 @@ A entrada é composta por 3 inteiros, N(0 < N < 10000), X e Y(0 < X, Y < 100), q
 Um valor real indicando o ICM da comunicação dos Palatír de Sauron e Saruman, com 2 casas decimais.
 
 # 2 / 3 - Cachorros-Quentes
-##Desafio
+## Desafio
 
 Em 2012 foi alcançado um novo recorde mundial na famosa Competição de Cachorros-Quentes do Nathan: o campeão, Joey Chestnut, devorou 68 cachorros-quentes em dez minutos, um aumento incrível em relação aos 62 sanduíches devorados pelo mesmo Chestnut em 2011.
 
