@@ -13,12 +13,12 @@ Saruman e Sauron precisam de uma comunicação estável, pois têm medo que Frod
 
 A entrada é composta por 3 inteiros, N(0 < N < 10000), X e Y(0 < X, Y < 100), que indicam, respectivamente, a distância entre os Palantír, o diâmetro do Palantír de Sauron e o diâmetro do Palantír de Saruman.
 
-##Saída
+## Saída
 
 Um valor real indicando o ICM da comunicação dos Palatír de Sauron e Saruman, com 2 casas decimais.
 
 # 2 / 3 - Cachorros-Quentes
-##Desafio
+## Desafio
 
 Em 2012 foi alcançado um novo recorde mundial na famosa Competição de Cachorros-Quentes do Nathan: o campeão, Joey Chestnut, devorou 68 cachorros-quentes em dez minutos, um aumento incrível em relação aos 62 sanduíches devorados pelo mesmo Chestnut em 2011.
 
@@ -26,11 +26,11 @@ O restaurante Nathan’s Famous Corporation, localizado no Brooklyn, NY, é o re
 
 Você pode ajudá-los? Eles prometeram pagá-lo com um dos seus saborosos cachorros-quentes. Dados o número total de cachorros-quentes consumidos e o número total de participantes na competição, você deve escrever um programa para determinar o número médio de cachorros-quentes consumidos pelos participantes.
 
-##Entrada
+## Entrada
 
 A entrada consiste de uma única linha que contém dois inteiros H e P (1 ≤ H, P ≤ 1000) indicando respectivamente o número total de cachorros-quentes consumidos e o número total de participantes na competição.
 
-##Saída
+## Saída
 
 Seu programa deve produzir uma única linha com um número racional representando o número médio de cachorros-quentes consumidos pelos participantes. O resultado deve ser escrito como um número racional com exatamente dois dígitos após o ponto decimal, arredondado se necessário.
 
@@ -43,7 +43,7 @@ Rubens quer calcular e mostrar a quantidade de litros de combustível gastos em 
 
 O arquivo de entrada contém dois inteiros. O primeiro é o tempo gasto na viagem em horas e o segundo é a velocidade média durante a mesma em km/h.
 
-##Saída
+## Saída
 
 Imprima a quantidade de litros necessária para realizar a viagem, com três dígitos após o ponto decimal
 
